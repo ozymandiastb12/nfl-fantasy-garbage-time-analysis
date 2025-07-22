@@ -6,11 +6,9 @@ Analysis of NFL wide receivers to identify which players get the highest percent
 
 ## Key Findings
 
-- Keenan Allen leads with 42.9% of fantasy points from garbage time (185 total FP)  
-- Antonio Brown at 33.4% garbage time dependency (178 total FP)  
 - Rome Odunze at 27.3% for rookie season (145 total FP)  
 - League average garbage time percentage: 14.3%  
-- Only 1 receiver exceeded 30% garbage time dependency
+- Only 1 receiver exceeded 30% garbage time dependency (D Douglas)
 
 ## Data Source
 
